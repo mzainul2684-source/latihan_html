@@ -4,9 +4,11 @@ Repository ini berisi hasil pengerjaan **Jurnal Modul 1 Pemrograman Web IT** den
 
 ## Identitas Praktikan
 
-*Nama   :M. Zainul Karohman
-*NIM    :103092400065
-*kelas  :IT-07-02
+**Nama:** M. Zainul Karohman  
+**NIM:** 103092400065  
+**Kelas:** IT-07-02  
+**Mata Kuliah:** Pemrograman Web IT  
+**Modul:** Modul 1 - Persiapan HTML  
 
 ## Deskripsi
 
